@@ -45,8 +45,7 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 
 <!-- <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"> -->
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
