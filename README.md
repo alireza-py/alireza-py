@@ -46,7 +46,7 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 </p>
 
 <!-- <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"> -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=alireza-py&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
