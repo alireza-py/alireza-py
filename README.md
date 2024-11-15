@@ -27,7 +27,7 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 ## 📊 My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-py&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-py&layout=compact&theme=radical)
-[![Alireza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)](https://github.com/alireza-py)
+[![Alireza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alireza-py&theme=radical)](https://github.com/alireza-py)
 
 
 ---
