@@ -43,6 +43,8 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
   </a>
 </p>
 
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300">
+
 ---
 
 ### 🚀 "Talk is cheap. Show me the code." – Linus Torvalds 😊
