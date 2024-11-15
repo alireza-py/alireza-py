@@ -11,7 +11,8 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 - 💻 Skilled in **C programming** and exploring low-level problem solving.
 
 ---
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 ## 🛠️ Tech & Tools I Work With:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -46,8 +47,7 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 </p>
 
 <!-- <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=alireza-py&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=alireza-py&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
 
