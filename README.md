@@ -4,3 +4,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-py&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-py&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
