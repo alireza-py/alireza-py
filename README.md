@@ -4,16 +4,14 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 
 ---
 
-## 🌟 About Me:
+## 🌟 About Me :
 - 📱 Currently learning **Flutter** for building amazing cross-platform mobile apps.  
 - 🤖 Diving into the exciting world of **Machine Learning** to develop intelligent systems.  
 - 🛠 Experienced in **SolidWorks** and **Altium Designer** for creating efficient hardware solutions.  
 - 💻 Skilled in **C programming** and exploring low-level problem solving.
 
 ---
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-## 🛠️ Tech & Tools I Work With:
+## 🛠️ Tech & Tools I Work With :
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -25,15 +23,15 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 
 ---
 
-## 📊 My GitHub Stats:
+## 📊 My GitHub Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-py&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-py&layout=compact&theme=radical)
-[![Alireza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alireza-py&theme=radical)](https://github.com/alireza-py)
+<!--[![Alireza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alireza-py&theme=radical)](https://github.com/alireza-py) -->
 
 
 ---
 
-## 🌍 Let's Connect:
+## 🌍 Let's Connect :
 <p align="center">
   <a href="https://www.linkedin.com/in/alireza-khani-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,5 +48,6 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=alireza-py&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
-
 ### 🚀 "Talk is cheap. Show me the code." – Linus Torvalds 😊
+### Inspirational Quote :
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
