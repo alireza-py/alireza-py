@@ -43,7 +43,10 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300">
+<!-- <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"> -->
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in)
+
 
 ---
 
