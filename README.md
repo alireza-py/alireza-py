@@ -5,7 +5,7 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 ---
 
 ## 🌟 About Me:
-- 📱 Currently learning **Flutter** for building amazing cross-platform mobile apps.  
+- 📱 Currently learning **Flutter** for building cross-platform mobile apps.  
 - 🤖 Diving into the exciting world of **Machine Learning** to develop intelligent systems.  
 - 🛠 Experienced in **SolidWorks** and **Altium Designer** for creating efficient hardware solutions.  
 - 💻 Skilled in **C programming** and exploring low-level problem solving.
