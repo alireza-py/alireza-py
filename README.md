@@ -1,6 +1,4 @@
-# Alireza
-
-Hi, I’m **Alireza Khani**, a software developer and hardware designer focused on building scalable and efficient systems. My work combines software, hardware, and AI to create impactful solutions.
+a software developer and hardware designer focused on building scalable and efficient systems. My work combines software, hardware, and AI to create impactful solutions.
 
 ---
 
@@ -51,3 +49,4 @@ Hi, I’m **Alireza Khani**, a software developer and hardware designer focused 
 ### "Talk is cheap. Show me the code." – Linus Torvalds 😊
 ### Inspirational Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
