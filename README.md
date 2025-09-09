@@ -1,17 +1,17 @@
-# 🌟 Welcome to My GitHub!
+# Alireza
 
-Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer**, and a curious learner. My journey revolves around exploring technology, crafting efficient solutions, and turning creative ideas into impactful projects. 🚀
-
----
-
-## 💥 About Me:
-- 📱 Currently learning **Flutter** for building cross-platform mobile apps.  
-- 🤖 Diving into the exciting world of **Machine Learning** to develop intelligent systems.  
-- 🛠 Experienced in **SolidWorks** and **Altium Designer** for creating efficient hardware solutions.  
-- 💻 Skilled in **C programming** and exploring low-level problem solving.
+Hi, I’m **Alireza Khani**, a software developer and hardware designer focused on building scalable and efficient systems. My work combines software, hardware, and AI to create impactful solutions.
 
 ---
-## 🛠️ Tech & Tools I Work With:
+
+## About Me:
+- Currently learning **Flutter** for building cross-platform mobile apps.  
+- Diving into the exciting world of **Machine Learning** to develop intelligent systems.  
+- Experienced in **SolidWorks** and **Altium Designer** for creating efficient hardware solutions.  
+- Skilled in **C programming** and exploring low-level problem solving.
+
+---
+## Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -31,7 +31,7 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 
 ---
 
-## 🌍 Let's Connect:
+## Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/alireza-khani-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -49,5 +49,5 @@ Hi there! 👋 I’m **Alireza Khani**, a passionate **programmer**, **designer*
 
 ---
 ### "Talk is cheap. Show me the code." – Linus Torvalds 😊
-### 🚀 Inspirational Quote:
+### Inspirational Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
