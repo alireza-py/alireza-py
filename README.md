@@ -1,12 +1,27 @@
-a software developer and hardware designer focused on building scalable and efficient systems. My work combines software, hardware, and AI to create impactful solutions.
+<p align="center">
+# Raise your words, not your voice. It is rain that grows flowers, not thunder #
+</p>
+<p align="center">
+<a href="https://github.com/alireza-py">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alireza+Khani;Software+Developer+%7C+Hardware+Designer;ML+%7C+Embedded+Systems+%7C+AI" alt="Typing SVG" />
+</a>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/alireza-khani-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:alireza.khani.23231@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/alireza-py">
+    <img src="https://img.shields.io/badge/GitHub-alireza--py-black?style=flat-square&logo=github">
+</a>
 
-## About Me:
-- Currently learning **Flutter** for building cross-platform mobile apps.  
-- Diving into the exciting world of **Machine Learning** to develop intelligent systems.  
-- Experienced in **SolidWorks** and **Altium Designer** for creating efficient hardware solutions.  
-- Skilled in **C programming** and exploring low-level problem solving.
+</p>
+
+* 💻 Working on software, hardware, and AI projects to build robust and scalable systems.
+* 🎓 Exploring **Machine Learning**, **Embedded Systems**, and **Cross-Platform Mobile Apps**.
+* 🛠 Tools & Languages: Python, C, Flutter, SolidWorks, Altium Designer.
 
 ---
 ## Skills:
@@ -49,4 +64,5 @@ a software developer and hardware designer focused on building scalable and effi
 ### "Talk is cheap. Show me the code." – Linus Torvalds 😊
 ### Inspirational Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
